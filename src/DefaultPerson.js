@@ -1,0 +1,4 @@
+const DefaultPerson = {
+  info:[],
+  roles:[],
+}

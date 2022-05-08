@@ -1,0 +1,592 @@
+{
+ "https://www.linkedin.com/mwlite/in/diye": {
+  "personId": "6153e0b7bb221ae2d6259c02",
+  "name": "Di Ye",
+  "profileLink": "https://www.linkedin.com/mwlite/in/diye",
+  "href": "https://www.linkedin.com/mwlite/in/diye",
+  "firstName": "Di",
+  "correspondingAuthorName": "Feng Bi",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jamunarani-veeraraghavan-75a62bb4": {
+  "personId": "6155137a22726e94fb401e6d",
+  "name": "Jamunarani Veeraraghavan",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jamunarani-veeraraghavan-75a62bb4",
+  "href": "https://www.linkedin.com/mwlite/in/jamunarani-veeraraghavan-75a62bb4",
+  "firstName": "Jamunarani",
+  "correspondingAuthorName": "Rachel Schiff",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/carolinagutierrez23": {
+  "personId": "6155137a22726e94fb401e6e",
+  "name": "Carolina Gutierrez",
+  "profileLink": "https://www.linkedin.com/mwlite/in/carolinagutierrez23",
+  "href": "https://www.linkedin.com/mwlite/in/carolinagutierrez23",
+  "firstName": "Carolina",
+  "correspondingAuthorName": "Rachel Schiff",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/vidya-sethunath": {
+  "personId": "6155137a22726e94fb401e6f",
+  "name": "Vidya Sethunath",
+  "profileLink": "https://www.linkedin.com/mwlite/in/vidya-sethunath",
+  "href": "https://www.linkedin.com/mwlite/in/vidya-sethunath",
+  "firstName": "Vidya",
+  "correspondingAuthorName": "Rachel Schiff",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/john-gillick-66653a15": {
+  "personId": "61550bf922726e94fb401d8f",
+  "name": "John Gillick",
+  "profileLink": "https://www.linkedin.com/mwlite/in/john-gillick-66653a15",
+  "href": "https://www.linkedin.com/mwlite/in/john-gillick-66653a15",
+  "firstName": "John",
+  "correspondingAuthorName": "Meena Jhanwar-Uniyal",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/dipsikha-biswas-b3093939": {
+  "personId": "6140ec906d5022bf43d0df5e",
+  "name": "Dipsikha Biswas",
+  "profileLink": "https://www.linkedin.com/mwlite/in/dipsikha-biswas-b3093939",
+  "href": "https://www.linkedin.com/mwlite/in/dipsikha-biswas-b3093939",
+  "firstName": "Dipsikha",
+  "correspondingAuthorName": "Thomas Pulinilkunnil",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/milad-ghomlaghi-458399b3": {
+  "personId": "6166ef621210308f93e16798",
+  "name": "Milad Ghomlaghi",
+  "profileLink": "https://www.linkedin.com/mwlite/in/milad-ghomlaghi-458399b3",
+  "href": "https://www.linkedin.com/mwlite/in/milad-ghomlaghi-458399b3",
+  "firstName": "Milad",
+  "correspondingAuthorName": "James Burchfield",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/sungyoung-shin-a60b4191": {
+  "personId": "6166ef621210308f93e16799",
+  "name": "Sungyoung Shin",
+  "profileLink": "https://www.linkedin.com/mwlite/in/sungyoung-shin-a60b4191",
+  "href": "https://www.linkedin.com/mwlite/in/sungyoung-shin-a60b4191",
+  "firstName": "Sungyoung",
+  "correspondingAuthorName": "Lan Nguyen",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/marco-gnugnoli-b5433531": {
+  "personId": "616777ea1210308f93e167ed",
+  "name": "Marco Gnugnoli",
+  "profileLink": "https://www.linkedin.com/mwlite/in/marco-gnugnoli-b5433531",
+  "href": "https://www.linkedin.com/mwlite/in/marco-gnugnoli-b5433531",
+  "firstName": "Marco",
+  "correspondingAuthorName": "Maria Longhese",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/erika-casari-8786a421a": {
+  "personId": "616777ea1210308f93e167ee",
+  "name": "Erika Casari",
+  "profileLink": "https://www.linkedin.com/mwlite/in/erika-casari-8786a421a",
+  "href": "https://www.linkedin.com/mwlite/in/erika-casari-8786a421a",
+  "firstName": "Erika",
+  "correspondingAuthorName": "Maria Longhese",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/silvia-pietrobono-91bb373a": {
+  "personId": "61711253468b15407322a071",
+  "name": "Silvia Pietrobono",
+  "profileLink": "https://www.linkedin.com/mwlite/in/silvia-pietrobono-91bb373a",
+  "href": "https://www.linkedin.com/mwlite/in/silvia-pietrobono-91bb373a",
+  "firstName": "Silvia",
+  "correspondingAuthorName": "Mario Chiariello",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/juan-linares-89269227": {
+  "personId": "617190aa468b15407322a0cf",
+  "name": "Juan Linares",
+  "profileLink": "https://www.linkedin.com/mwlite/in/juan-linares-89269227",
+  "href": "https://www.linkedin.com/mwlite/in/juan-linares-89269227",
+  "firstName": "Juan",
+  "correspondingAuthorName": "Jorge Moscat",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/robert-harkness-340819204": {
+  "personId": "614cef8f5d3e834449745ae9",
+  "name": "Robert Harkness",
+  "profileLink": "https://www.linkedin.com/mwlite/in/robert-harkness-340819204",
+  "href": "https://www.linkedin.com/mwlite/in/robert-harkness-340819204",
+  "firstName": "Robert",
+  "correspondingAuthorName": "Lewis Kay",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/yuki-toyama-b26712123": {
+  "personId": "614cef8f5d3e834449745aea",
+  "name": "Yuki Toyama",
+  "profileLink": "https://www.linkedin.com/mwlite/in/yuki-toyama-b26712123",
+  "href": "https://www.linkedin.com/mwlite/in/yuki-toyama-b26712123",
+  "firstName": "Yuki",
+  "correspondingAuthorName": "Lewis Kay",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/ezgi-uckun-93aa6659": {
+  "personId": "61554abc1ab1cf41a7010ebb",
+  "name": "Ezgi Uckun",
+  "profileLink": "https://www.linkedin.com/mwlite/in/ezgi-uckun-93aa6659",
+  "href": "https://www.linkedin.com/mwlite/in/ezgi-uckun-93aa6659",
+  "firstName": "Ezgi",
+  "correspondingAuthorName": "Jikui Guan",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jeopark": {
+  "personId": "614cef915d3e834449745b37",
+  "name": "Jeong Park",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jeopark",
+  "href": "https://www.linkedin.com/mwlite/in/jeopark",
+  "firstName": "Jeong",
+  "correspondingAuthorName": "Chang-Seon Myung",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/zhi-duan-58811b22": {
+  "personId": "614cef885d3e8344497459e7",
+  "name": "Zhi Duan",
+  "profileLink": "https://www.linkedin.com/mwlite/in/zhi-duan-58811b22",
+  "href": "https://www.linkedin.com/mwlite/in/zhi-duan-58811b22",
+  "firstName": "Zhi",
+  "correspondingAuthorName": "Guojun Yu",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/linda-baughn-b59aa43a": {
+  "personId": "614cef885d3e8344497459e8",
+  "name": "Linda Baughn",
+  "profileLink": "https://www.linkedin.com/mwlite/in/linda-baughn-b59aa43a",
+  "href": "https://www.linkedin.com/mwlite/in/linda-baughn-b59aa43a",
+  "firstName": "Linda",
+  "correspondingAuthorName": "Guojun Yu",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/mikhail-chesnokov": {
+  "personId": "61450a0cba0ffda59e49b69c",
+  "name": "Mikhail Chesnokov",
+  "profileLink": "https://www.linkedin.com/mwlite/in/mikhail-chesnokov",
+  "href": "https://www.linkedin.com/mwlite/in/mikhail-chesnokov",
+  "firstName": "Mikhail",
+  "correspondingAuthorName": "Andrei Gartel",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/justin-zonneville-14b183aa": {
+  "personId": "614cef915d3e834449745b3e",
+  "name": "Justin Zonneville",
+  "profileLink": "https://www.linkedin.com/mwlite/in/justin-zonneville-14b183aa",
+  "href": "https://www.linkedin.com/mwlite/in/justin-zonneville-14b183aa",
+  "firstName": "Justin",
+  "correspondingAuthorName": "Andrei Bakin",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jithesh-augustine-157997115": {
+  "personId": "614cef865d3e8344497458ce",
+  "name": "Jithesh Augustine",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jithesh-augustine-157997115",
+  "href": "https://www.linkedin.com/mwlite/in/jithesh-augustine-157997115",
+  "firstName": "Jithesh",
+  "correspondingAuthorName": "Jason Fleming",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/vanessa-laurient%C3%A9": {
+  "personId": "614cef885d3e8344497459d4",
+  "name": "Vanessa Laurienté",
+  "profileLink": "https://www.linkedin.com/mwlite/in/vanessa-laurient%C3%A9",
+  "href": "https://www.linkedin.com/mwlite/in/vanessa-laurient%C3%A9",
+  "firstName": "Vanessa",
+  "correspondingAuthorName": "Lionel Guittat",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/vanessabyles": {
+  "personId": "61550be922726e94fb401d7b",
+  "name": "Vanessa Byles",
+  "profileLink": "https://www.linkedin.com/mwlite/in/vanessabyles",
+  "href": "https://www.linkedin.com/mwlite/in/vanessabyles",
+  "firstName": "Vanessa",
+  "correspondingAuthorName": "Brendan Manning",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/yann-cormerais-b13335183": {
+  "personId": "61550be922726e94fb401d7c",
+  "name": "Yann Cormerais",
+  "profileLink": "https://www.linkedin.com/mwlite/in/yann-cormerais-b13335183",
+  "href": "https://www.linkedin.com/mwlite/in/yann-cormerais-b13335183",
+  "firstName": "Yann",
+  "correspondingAuthorName": "Brendan Manning",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/krystle-kalafut-60a36547": {
+  "personId": "61550be922726e94fb401d7d",
+  "name": "Krystle Kalafut",
+  "profileLink": "https://www.linkedin.com/mwlite/in/krystle-kalafut-60a36547",
+  "href": "https://www.linkedin.com/mwlite/in/krystle-kalafut-60a36547",
+  "firstName": "Krystle",
+  "correspondingAuthorName": "Brendan Manning",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/alison-kearney-6668591a7": {
+  "personId": "6166ef7f1210308f93e1679c",
+  "name": "Alison Kearney",
+  "profileLink": "https://www.linkedin.com/mwlite/in/alison-kearney-6668591a7",
+  "href": "https://www.linkedin.com/mwlite/in/alison-kearney-6668591a7",
+  "firstName": "Alison",
+  "correspondingAuthorName": "James Burchfield",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/vinayak-palve-b16a5775": {
+  "personId": "617110d1468b15407322a048",
+  "name": "Vinayak Palve",
+  "profileLink": "https://www.linkedin.com/mwlite/in/vinayak-palve-b16a5775",
+  "href": "https://www.linkedin.com/mwlite/in/vinayak-palve-b16a5775",
+  "firstName": "Vinayak",
+  "correspondingAuthorName": "Uwe Rix",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/claire-e-knezevic-55365229": {
+  "personId": "617110d1468b15407322a049",
+  "name": "Claire Knezevic",
+  "profileLink": "https://www.linkedin.com/mwlite/in/claire-e-knezevic-55365229",
+  "href": "https://www.linkedin.com/mwlite/in/claire-e-knezevic-55365229",
+  "firstName": "Claire",
+  "correspondingAuthorName": "Uwe Rix",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/mahmoud-elguindy-32a68421": {
+  "personId": "614cef8c5d3e834449745a9c",
+  "name": "Mahmoud Elguindy",
+  "profileLink": "https://www.linkedin.com/mwlite/in/mahmoud-elguindy-32a68421",
+  "href": "https://www.linkedin.com/mwlite/in/mahmoud-elguindy-32a68421",
+  "firstName": "Mahmoud",
+  "correspondingAuthorName": "Joshua Mendell",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/alicia-woock-60b28356": {
+  "personId": "614cef875d3e83444974593b",
+  "name": "Alicia Woock",
+  "profileLink": "https://www.linkedin.com/mwlite/in/alicia-woock-60b28356",
+  "href": "https://www.linkedin.com/mwlite/in/alicia-woock-60b28356",
+  "firstName": "Alicia",
+  "correspondingAuthorName": "Charles Clevenger",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jacqueline-grible-39a8118a": {
+  "personId": "614cef875d3e83444974593c",
+  "name": "Jacqueline Grible",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jacqueline-grible-39a8118a",
+  "href": "https://www.linkedin.com/mwlite/in/jacqueline-grible-39a8118a",
+  "firstName": "Jacqueline",
+  "correspondingAuthorName": "Charles Clevenger",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/amy-olex-9228bb23": {
+  "personId": "614cef875d3e83444974593d",
+  "name": "Amy Olex",
+  "profileLink": "https://www.linkedin.com/mwlite/in/amy-olex-9228bb23",
+  "href": "https://www.linkedin.com/mwlite/in/amy-olex-9228bb23",
+  "firstName": "Amy",
+  "correspondingAuthorName": "Charles Clevenger",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/anissa-widjaja-30688b186": {
+  "personId": "61450a12ba0ffda59e49babe",
+  "name": "Anissa Widjaja",
+  "profileLink": "https://www.linkedin.com/mwlite/in/anissa-widjaja-30688b186",
+  "href": "https://www.linkedin.com/mwlite/in/anissa-widjaja-30688b186",
+  "firstName": "Anissa",
+  "correspondingAuthorName": "Stuart Cook",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/leoliu1221": {
+  "personId": "614cef865d3e8344497458de",
+  "name": "Liu Liu",
+  "profileLink": "https://www.linkedin.com/mwlite/in/leoliu1221",
+  "href": "https://www.linkedin.com/mwlite/in/leoliu1221",
+  "firstName": "Liu",
+  "correspondingAuthorName": "Wenjian Gan",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/aijun-qiao-65928335": {
+  "personId": "614cef875d3e8344497458ea",
+  "name": "Aijun Qiao",
+  "profileLink": "https://www.linkedin.com/mwlite/in/aijun-qiao-65928335",
+  "href": "https://www.linkedin.com/mwlite/in/aijun-qiao-65928335",
+  "firstName": "Aijun",
+  "correspondingAuthorName": "Gangjian Qin",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/shiyue-xu-8b04027a": {
+  "personId": "614cef875d3e8344497458ec",
+  "name": "Shiyue Xu",
+  "profileLink": "https://www.linkedin.com/mwlite/in/shiyue-xu-8b04027a",
+  "href": "https://www.linkedin.com/mwlite/in/shiyue-xu-8b04027a",
+  "firstName": "Shiyue",
+  "correspondingAuthorName": "Gangjian Qin",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/punit-saraon-84978838": {
+  "personId": "614cef7f5d3e8344497453d8",
+  "name": "Punit Saraon",
+  "profileLink": "https://www.linkedin.com/mwlite/in/punit-saraon-84978838",
+  "href": "https://www.linkedin.com/mwlite/in/punit-saraon-84978838",
+  "firstName": "Punit",
+  "correspondingAuthorName": "Igor Stagljar",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/shivanthypathmanathan": {
+  "personId": "614cef7f5d3e8344497453e5",
+  "name": "Shivanthy Pathmanathan",
+  "profileLink": "https://www.linkedin.com/mwlite/in/shivanthypathmanathan",
+  "href": "https://www.linkedin.com/mwlite/in/shivanthypathmanathan",
+  "firstName": "Shivanthy",
+  "correspondingAuthorName": "Igor Stagljar",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jamie-snider-6875a615": {
+  "personId": "614cef7d5d3e834449745295",
+  "name": "Jamie Snider",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jamie-snider-6875a615",
+  "href": "https://www.linkedin.com/mwlite/in/jamie-snider-6875a615",
+  "firstName": "Jamie",
+  "correspondingAuthorName": "Igor Stagljar",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/ariadna-recasens-b4a480a5": {
+  "personId": "6166ee341210308f93e1678b",
+  "name": "Ariadna Recasens",
+  "profileLink": "https://www.linkedin.com/mwlite/in/ariadna-recasens-b4a480a5",
+  "href": "https://www.linkedin.com/mwlite/in/ariadna-recasens-b4a480a5",
+  "firstName": "Ariadna",
+  "correspondingAuthorName": "Lenka Munoz",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/arsen-petrovic-77a71bb4": {
+  "personId": "614cef855d3e83444974584f",
+  "name": "Arsen Petrovic",
+  "profileLink": "https://www.linkedin.com/mwlite/in/arsen-petrovic-77a71bb4",
+  "href": "https://www.linkedin.com/mwlite/in/arsen-petrovic-77a71bb4",
+  "firstName": "Arsen",
+  "correspondingAuthorName": "Andrea Musacchio",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/prasad-dandawate-2231872b": {
+  "personId": "614cef865d3e834449745890",
+  "name": "Prasad Dandawate",
+  "profileLink": "https://www.linkedin.com/mwlite/in/prasad-dandawate-2231872b",
+  "href": "https://www.linkedin.com/mwlite/in/prasad-dandawate-2231872b",
+  "firstName": "Prasad",
+  "correspondingAuthorName": "Shrikant Anant",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/kasey-jividen-59378699": {
+  "personId": "614cef885d3e8344497459bf",
+  "name": "Kasey Jividen",
+  "profileLink": "https://www.linkedin.com/mwlite/in/kasey-jividen-59378699",
+  "href": "https://www.linkedin.com/mwlite/in/kasey-jividen-59378699",
+  "firstName": "Kasey",
+  "correspondingAuthorName": "Bryce Paschal",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/yangsik-kim-71965014b": {
+  "personId": "614cef915d3e834449745b0d",
+  "name": "Yangsik Kim",
+  "profileLink": "https://www.linkedin.com/mwlite/in/yangsik-kim-71965014b",
+  "href": "https://www.linkedin.com/mwlite/in/yangsik-kim-71965014b",
+  "firstName": "Yangsik",
+  "correspondingAuthorName": "Eunjoon Kim",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/delongmeng": {
+  "personId": "6140ec906d5022bf43d0df7e",
+  "name": "Delong Meng",
+  "profileLink": "https://www.linkedin.com/mwlite/in/delongmeng",
+  "href": "https://www.linkedin.com/mwlite/in/delongmeng",
+  "firstName": "Delong",
+  "correspondingAuthorName": "Jenna Jewell",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/ahmad-abdullah-027a8136": {
+  "personId": "614cef885d3e83444974598f",
+  "name": "Ahmad Abdullah",
+  "profileLink": "https://www.linkedin.com/mwlite/in/ahmad-abdullah-027a8136",
+  "href": "https://www.linkedin.com/mwlite/in/ahmad-abdullah-027a8136",
+  "firstName": "Ahmad",
+  "correspondingAuthorName": "Håkan Hedman",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/h%C3%A5kan-hedman-b42082147": {
+  "personId": "614cef885d3e834449745991",
+  "name": "Håkan Hedman",
+  "profileLink": "https://www.linkedin.com/mwlite/in/h%C3%A5kan-hedman-b42082147",
+  "href": "https://www.linkedin.com/mwlite/in/h%C3%A5kan-hedman-b42082147",
+  "firstName": "Håkan",
+  "correspondingAuthorName": "Håkan Hedman",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/yanxiang-meng": {
+  "personId": "614cef855d3e8344497457f6",
+  "name": "Yanxiang Meng",
+  "profileLink": "https://www.linkedin.com/mwlite/in/yanxiang-meng",
+  "href": "https://www.linkedin.com/mwlite/in/yanxiang-meng",
+  "firstName": "Yanxiang",
+  "correspondingAuthorName": "James Murphy",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jonatan-gabre-983502129": {
+  "personId": "61554aef1ab1cf41a7010ebe",
+  "name": "Jonatan Gabre",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jonatan-gabre-983502129",
+  "href": "https://www.linkedin.com/mwlite/in/jonatan-gabre-983502129",
+  "firstName": "Jonatan",
+  "correspondingAuthorName": "Jikui Guan",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/xuewei-wu-1148b189": {
+  "personId": "61450a0fba0ffda59e49b8c7",
+  "name": "Xuewei Wu",
+  "profileLink": "https://www.linkedin.com/mwlite/in/xuewei-wu-1148b189",
+  "href": "https://www.linkedin.com/mwlite/in/xuewei-wu-1148b189",
+  "firstName": "Xuewei",
+  "correspondingAuthorName": "Poulikos Poulikakos",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/sandra-hill-0297206": {
+  "personId": "614cef825d3e83444974566b",
+  "name": "Sandra Hill",
+  "profileLink": "https://www.linkedin.com/mwlite/in/sandra-hill-0297206",
+  "href": "https://www.linkedin.com/mwlite/in/sandra-hill-0297206",
+  "firstName": "Sandra",
+  "correspondingAuthorName": "David Rubinsztein",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/lidia-wrobel-802a581ab": {
+  "personId": "614cef825d3e83444974566c",
+  "name": "Lidia Wrobel",
+  "profileLink": "https://www.linkedin.com/mwlite/in/lidia-wrobel-802a581ab",
+  "href": "https://www.linkedin.com/mwlite/in/lidia-wrobel-802a581ab",
+  "firstName": "Lidia",
+  "correspondingAuthorName": "David Rubinsztein",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jui-hsia-weng-63a14666": {
+  "personId": "614cef865d3e83444974586b",
+  "name": "Jui-Hsia Weng",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jui-hsia-weng-63a14666",
+  "href": "https://www.linkedin.com/mwlite/in/jui-hsia-weng-63a14666",
+  "firstName": "Jui-Hsia",
+  "correspondingAuthorName": "Timothy Mitchison",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/harding-luan-b9883110b": {
+  "personId": "614cef865d3e83444974586d",
+  "name": "Harding Luan",
+  "profileLink": "https://www.linkedin.com/mwlite/in/harding-luan-b9883110b",
+  "href": "https://www.linkedin.com/mwlite/in/harding-luan-b9883110b",
+  "firstName": "Harding",
+  "correspondingAuthorName": "Timothy Mitchison",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/yushanzhang1": {
+  "personId": "614cef875d3e834449745944",
+  "name": "Yushan Zhang",
+  "profileLink": "https://www.linkedin.com/mwlite/in/yushanzhang1",
+  "href": "https://www.linkedin.com/mwlite/in/yushanzhang1",
+  "firstName": "Yushan",
+  "correspondingAuthorName": "Yehia Daaka",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/qiying-fan-7461b769": {
+  "personId": "614cef875d3e8344497458ff",
+  "name": "Qiying Fan",
+  "profileLink": "https://www.linkedin.com/mwlite/in/qiying-fan-7461b769",
+  "href": "https://www.linkedin.com/mwlite/in/qiying-fan-7461b769",
+  "firstName": "Qiying",
+  "correspondingAuthorName": "Xinchun Pi",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/fei-shao-289186107": {
+  "personId": "614cef855d3e8344497457c1",
+  "name": "Fei Shao",
+  "profileLink": "https://www.linkedin.com/mwlite/in/fei-shao-289186107",
+  "href": "https://www.linkedin.com/mwlite/in/fei-shao-289186107",
+  "firstName": "Fei",
+  "correspondingAuthorName": "Zhimin Lu",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/jason-cullen-b58714107": {
+  "personId": "614cef865d3e834449745875",
+  "name": "Jason Cullen",
+  "profileLink": "https://www.linkedin.com/mwlite/in/jason-cullen-b58714107",
+  "href": "https://www.linkedin.com/mwlite/in/jason-cullen-b58714107",
+  "firstName": "Jason",
+  "correspondingAuthorName": "Craig Williams",
+  "alreadySeen": false,
+  "requested": false
+ },
+ "https://www.linkedin.com/mwlite/in/glen-boyle-8a4712111": {
+  "personId": "614cef865d3e834449745876",
+  "name": "Glen Boyle",
+  "profileLink": "https://www.linkedin.com/mwlite/in/glen-boyle-8a4712111",
+  "href": "https://www.linkedin.com/mwlite/in/glen-boyle-8a4712111",
+  "firstName": "Glen",
+  "correspondingAuthorName": "Craig Williams",
+  "alreadySeen": false,
+  "requested": false
+ }
+}

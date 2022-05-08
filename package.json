@@ -6,10 +6,18 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "jest-worker": "^28.0.1",
+    "mongodb": "^4.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "react-table": "^7.7.0",
+    "redux": "^4.1.0",
+    "redux-thunk": "^2.3.0",
+    "redux-undo": "^1.0.1",
+    "web-vitals": "^1.0.1",
+    "zotero-api-client": "^0.37.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +42,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "console-table-printer": "^2.10.0",
+    "log-symbols": "^5.0.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^10.0.0",
+    "remote-redux-devtools": "^0.5.16"
   }
 }

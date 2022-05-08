@@ -1,0 +1,63 @@
+[ 'Adam Pierce', 'Adam P.' ]
+
+[ 'Adam Wang', 'Adam W.' ]
+
+[ 'Alexander Terry', 'Alex Terry' ]
+
+[ 'Ana Gázquez-Gutiérrez', 'Ana Gázquez Gutiérrez' ]
+[ 'Ana Plata-Gómez', 'Ana Belén Plata Gómez' ]
+
+[ 'Andrew Massey', 'Andy Massey' ]
+
+[ 'Anne Roehrig', 'Ann Roehrig, LEED GA, TRUE Advisor' ]
+[ 'Anne Roehrig', 'Anne Röhrig' ]
+[ 'Anne Roehrig', 'Annie Rohrig' ]
+
+[ 'Anxo Martinez-Ordoñez', 'Anxo Martínez Ordóñez' ]
+
+[ 'Christoph Burckhardt', 'Andrea Christoph Burkhardt' ]
+[ 'Christoph Burckhardt', 'Christoph Burkhardt' ]
+
+[ 'Erin O’Keefe', "Erin O'Keefe Graham" ]
+[ 'Erin O’Keefe', "Erin O'Keefe" ]
+[ 'Erin O’Keefe', "Erin O'keefe" ]
+[ 'Erin O’Keefe', 'Erin OKeefe' ]
+
+[ 'Ester Martín-Aparicio', 'Ester Martín Aparicio' ]
+[ 'Ester Martín-Aparicio', 'Esther Martin Aparicio' ]
+
+[ 'Iris Garrido-Cano', 'Iris Garrido Cano' ]
+
+[ 'Jan Schröder', 'Jan Schroeder' ]
+
+[ 'Jieying Qian', 'Christina (Jieying) Qian' ]
+
+[ 'Juan Gómora-García', 'Juan Gomora Garcia' ]
+
+[ 'Kevin Sun', 'Xiaoqi (Kevin) Sun' ]
+[ 'M Toriseva', 'Mervi Toriseva' ]
+
+[ 'Marit Rasmussen', 'Marit R.' ]
+
+[ 'Marta Sanz-Alvarez', 'Marta Sanz Álvarez' ]
+
+
+[ 'Megan O’Brien', "Megan O'Brien" ]
+
+[ 'Melani Luque', 'Melanie Luque' ]
+
+[ 'Michael Longman', 'Mike Longman' ]
+[ 'Michael Tatham', 'Mike Tatham' ]
+
+[ 'Miguel Martin-Perez', 'Miguel Martin--Perez' ]
+
+[ 'Sandra Pisonero-Vaquero', 'Sandra Pisonero Vaquero' ]
+
+** [ 'Saul Jaime', 'Saul Jaime-Figueroa' ]
+
+
+** [ 'Theresa Tachie-Menson', 'Theresa T.' ]
+
+[ 'Timothy Baffi', 'Tim Baffi, PhD' ]
+
+[ 'Xiomaris Cotto-Rios', 'Xiomaris Cotto Rios, PhD, PMP' ]

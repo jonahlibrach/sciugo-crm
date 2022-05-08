@@ -1,0 +1,999 @@
+[
+ {
+  "title": "Rare BRAF mutations in pancreatic neuroendocrine tumors may predict response to RAF and MEK inhibition",
+  "authors": [
+   "Amy Allen",
+   "Alice Can Ran Qin",
+   "Nitya Raj",
+   "[...]",
+   "Christine A. Pratilas"
+  ],
+  "time": "June 2019"
+ },
+ {
+  "title": "Src promotes GTPase activity of Ras via tyrosine 32 phosphorylation",
+  "authors": [
+   "Severa Bunda",
+   "Pardeep Heir",
+   "Tharan Srikumar",
+   "[...]",
+   "Michael Ohh"
+  ],
+  "time": "August 2014"
+ },
+ {
+  "title": "Tyrosyl phosphorylation of KRAS stalls GTPase cycle via alteration of switch I and II conformation",
+  "authors": [
+   "Yoshihito Kano",
+   "Teklab Gebregiworgis",
+   "Christopher B Marshall",
+   "[...]",
+   "Michael Ohh"
+  ],
+  "time": "January 2019"
+ },
+ {
+  "title": "Oncogenic RAS isoforms show a hierarchical requirement for the guanine nucleotide exchange factor SOS2 to mediate cell transformation",
+  "authors": [
+   "Erin Sheffels",
+   "Nancy E. Sealover",
+   "Chenyue Wang",
+   "[...]",
+   "Robert Kortum"
+  ],
+  "time": "September 2018"
+ },
+ {
+  "title": "EGFR-PI3K-PDK1 pathway regulates YAP signaling in hepatocellular carcinoma: the mechanism and its implications in targeted therapy",
+  "authors": [
+   "Hongwei Xia",
+   "Xinyu Dai",
+   "Huangfei Yu",
+   "[...]",
+   "Feng Bi"
+  ],
+  "time": "March 2018"
+ },
+ {
+  "title": "Targeting SERT promotes tryptophan metabolism: mechanisms and implications in colon cancer treatment",
+  "authors": [
+   "Di Ye",
+   "Huanji Xu",
+   "Hongwei Xia",
+   "[...]",
+   "Feng Bi"
+  ],
+  "time": "December 2021"
+ },
+ {
+  "title": "MEK nuclear localization promotes YAP stability via sequestering β-TrCP in KRAS mutant cancer cells",
+  "authors": [
+   "Huanji Xu",
+   "Sheng Zhou",
+   "Hongwei Xia",
+   "[...]",
+   "Feng Bi"
+  ],
+  "time": "March 2019"
+ },
+ {
+  "title": "SHP2 inhibition diminishes KRASG12C cycling and promotes tumor microenvironment remodeling",
+  "authors": [
+   "Carmine Fedele",
+   "Shuai Li",
+   "Kai Wen Teng",
+   "[...]",
+   "Benjamin G Neel"
+  ],
+  "time": "January 2021"
+ },
+ {
+  "title": "Inducible Degradation of Target Proteins through a Tractable Affinity-Directed Protein Missile System",
+  "authors": [
+   "Luke Simpson",
+   "Thomas J Macartney",
+   "Alice Nardin",
+   "[...]",
+   "Gopal Sapkota"
+  ],
+  "time": "July 2020"
+ },
+ {
+  "title": "A potent KRAS macromolecule degrader specifically targeting tumours with mutant KRAS",
+  "authors": [
+   "Nicolas Bery",
+   "Ami Miller",
+   "Terry Rabbitts"
+  ],
+  "time": "June 2020"
+ },
+ {
+  "title": "SHP2 Drives Adaptive Resistance to ERK Signaling Inhibition in Molecularly Defined Subsets of ERK-Dependent Tumors",
+  "authors": [
+   "Tamer Ahmed",
+   "Christos Adamopoulos",
+   "Zoi Karoulia",
+   "[...]",
+   "Poulikos I. Poulikakos"
+  ],
+  "time": "January 2019"
+ },
+ {
+  "title": "MEKK2 and MEKK3 orchestrate multiple signals to regulate Hippo pathway",
+  "authors": [
+   "Jinqiu Lu",
+   "Zonghao Hu",
+   "Yujie Deng",
+   "[...]",
+   "Hai Song"
+  ],
+  "time": "February 2021"
+ },
+ {
+  "title": "STRIPAK integrates upstream signals to initiate the Hippo kinase cascade",
+  "authors": [
+   "Rui Chen",
+   "Ruiling Xie",
+   "Zhipeng Meng",
+   "[...]",
+   "Kun-Liang Guan"
+  ],
+  "time": "December 2019"
+ },
+ {
+  "title": "LATS suppresses mTORC1 activity to directly coordinate Hippo and mTORC1 pathways in growth control",
+  "authors": [
+   "Wenjian Gan",
+   "Xiaoming Dai",
+   "Xiangpeng Dai",
+   "[...]",
+   "Wenyi Wei"
+  ],
+  "time": "February 2020"
+ },
+ {
+  "title": "Inhibition of CK1ε potentiates the therapeutic efficacy of CDK4/6 inhibitor in breast cancer",
+  "authors": [
+   "Fabin Dang",
+   "Li Nie",
+   "Jin Zhou",
+   "[...]",
+   "Wenyi Wei"
+  ],
+  "time": "September 2021"
+ },
+ {
+  "title": "SPOP-mediated ubiquitination and degradation of PDK1 suppresses AKT kinase activity and oncogenic functions",
+  "authors": [
+   "Qiwei Jiang",
+   "Nana Zheng",
+   "Lang Bu",
+   "[...]",
+   "Jianping Guo"
+  ],
+  "time": "August 2021"
+ },
+ {
+  "title": "SHOC2–MRAS–PP1 complex positively regulates RAF activity and contributes to Noonan syndrome pathogenesis",
+  "authors": [
+   "Lucy C. Young",
+   "Nicole Hartig",
+   "Isabel Boned del Rio",
+   "[...]",
+   "Pablo Rodriguez-Viciana"
+  ],
+  "time": "October 2018"
+ },
+ {
+  "title": "SHOC2 phosphatase-dependent RAF dimerization mediates resistance to MEK inhibition in RAS-mutant cancers",
+  "authors": [
+   "Greg Jones",
+   "Isabel Boned del Rio",
+   "Sibel Sari",
+   "[...]",
+   "Pablo Rodriguez-Viciana"
+  ],
+  "time": "June 2019"
+ },
+ {
+  "title": "Sin1 phosphorylation impairs mTORC2 complex integrity and inhibits downstream Akt signaling to suppress tumorigenesis",
+  "authors": [
+   "Pengda Liu",
+   "Wenjian Gan",
+   "Hiroyuki Inuzuka",
+   "[...]",
+   "Wenyi Wei"
+  ],
+  "time": "October 2013"
+ },
+ {
+  "title": "mTORC2 Is Required for Rit-Mediated Oxidative Stress Resistance",
+  "authors": [
+   "Weikang Cai",
+   "Douglas Andres"
+  ],
+  "time": "December 2014"
+ },
+ {
+  "title": "mTORC2 sustains thermogenesis via Akt-induced glucose uptake and glycolysis in brown adipose tissue",
+  "authors": [
+   "Verena Albert",
+   "Kristoffer Svensson",
+   "Mitsugu Shimobayashi",
+   "[...]",
+   "Michael N Hall"
+  ],
+  "time": "January 2016"
+ },
+ {
+  "title": "AJUBA LIM Proteins Limit Hippo Activity in Proliferating Cells by Sequestering the Hippo Core Kinase Complex in the Cytosol",
+  "authors": [
+   "Radhika Jagannathan",
+   "Gregory V. Schimizzi",
+   "Kun Zhang",
+   "[...]",
+   "Gregory D. Longmore"
+  ],
+  "time": "July 2016"
+ },
+ {
+  "title": "Distinct roles of Rheb and Raptor in activating mTOR complex 1 for the self-renewal of hematopoietic stem cells",
+  "authors": [
+   "Hui Peng",
+   "Atsuo Kasada",
+   "Masaya Ueno",
+   "[...]",
+   "Atsushi Hirao"
+  ],
+  "time": "November 2017"
+ },
+ {
+  "title": "SHOC2 complex-driven RAF dimerization selectively contributes to ERK pathway dynamics",
+  "authors": [
+   "Isabel Boned del Rio",
+   "Lucy C. Young",
+   "Sibel Sari",
+   "[...]",
+   "Pablo Rodriguez-Viciana"
+  ],
+  "time": "June 2019"
+ },
+ {
+  "title": "eIF4E/4E-BP ratio predicts the efficacy of mTOR targeted therapies",
+  "authors": [
+   "Tommy Alain",
+   "Masahiro Morita",
+   "Bruno Fonseca",
+   "[...]",
+   "Nahum Sonenberg"
+  ],
+  "time": "October 2012"
+ },
+ {
+  "title": "mTOR Kinase Inhibition Causes Feedback-Dependent Biphasic Regulation of AKT Signaling",
+  "authors": [
+   "Vanessa Rodrik",
+   "Sarat Chandalapaty",
+   "Nen C Pagano",
+   "[...]",
+   "Neal Rosen"
+  ],
+  "time": "June 2011"
+ },
+ {
+  "title": "Uncoupling TORC2 from AGC kinases inhibits tumour growth",
+  "authors": [
+   "Angus J M Cameron",
+   "Selvaraju Veeriah",
+   "Jacqueline (Jacqui) Johanna Tabitha Marshall",
+   "[...]",
+   "Peter Parker"
+  ],
+  "time": "August 2017"
+ },
+ {
+  "title": "Distinct perturbation of the translatome by the antidiabetic drug metformin",
+  "authors": [
+   "Ola Larsson",
+   "Masahiro Morita",
+   "Ivan Topisirovic",
+   "[...]",
+   "Nahum Sonenberg"
+  ],
+  "time": "May 2012"
+ },
+ {
+  "title": "Glutamine and asparagine activate mTORC1 independently of Rag GTPases",
+  "authors": [
+   "Delong Meng",
+   "Qianmei Yang",
+   "Huanyu Wang",
+   "[...]",
+   "Jenna L Jewell"
+  ],
+  "time": "February 2020"
+ },
+ {
+  "title": "Differential regulation of mTORC1 by leucine and glutamine",
+  "authors": [
+   "Jenna L Jewell",
+   "Young Chul Kim",
+   "Ryan C Russell",
+   "[...]",
+   "Kun-Liang Guan"
+  ],
+  "time": "January 2015"
+ },
+ {
+  "title": "GCN2 sustains mTORC1 suppression upon amino acid deprivation by inducing Sestrin2",
+  "authors": [
+   "Jiangbin Ye",
+   "Wilhelm Palm",
+   "Min Peng",
+   "[...]",
+   "Craig B Thompson"
+  ],
+  "time": "November 2015"
+ },
+ {
+  "title": "LAPTM4b recruits the LAT1-4F2hc Leu transporter to lysosomes and promotes mTORC1 activation",
+  "authors": [
+   "Ruth Milkereit",
+   "Avinash Persaud",
+   "Liviu Vanoaica",
+   "[...]",
+   "Daniela Rotin"
+  ],
+  "time": "May 2015"
+ },
+ {
+  "title": "Amino acid-dependent MTORC1 regulation by the lysosomal membrane protein SLC38A9",
+  "authors": [
+   "Jennifer Jung",
+   "Heide Marika Genau",
+   "Christian Behrends"
+  ],
+  "time": "May 2015"
+ },
+ {
+  "title": "Regulation of mTORC1 signaling by pH",
+  "authors": [
+   "Aruna D Balgi",
+   "Graham H Diering",
+   "Elizabeth Vo",
+   "[...]",
+   "Michel Roberge"
+  ],
+  "time": "June 2011"
+ },
+ {
+  "title": "TSC2/Rheb signaling mediates ERK-dependent regulation of mTORC1 activity in C2C12 myoblasts",
+  "authors": [
+   "Mitsunori Miyazaki",
+   "Tohru Takemasa"
+  ],
+  "time": "January 2017"
+ },
+ {
+  "title": "Mechanical Stimulation Induces mTOR Signaling via an ERK-Independent Mechanism: Implications for a Direct Activation of mTOR by Phosphatidic Acid",
+  "authors": [
+   "Jae-Sung You",
+   "John W. Frey",
+   "Troy A Hornberger"
+  ],
+  "time": "October 2012"
+ },
+ {
+  "title": "Site-Specific mTOR Phosphorylation Promotes mTORC1-Mediated Signaling and Cell Growth",
+  "authors": [
+   "Alberto Jaquez",
+   "Jennifer A Keller",
+   "Kathryn G Foster",
+   "[...]",
+   "Diane C Fingar"
+  ],
+  "time": "July 2009"
+ },
+ {
+  "title": "Characterization of Rictor Phosphorylation Sites Reveals Direct Regulation of mTOR Complex 2 by S6K1",
+  "authors": [
+   "Christian C Dibble",
+   "John M Asara",
+   "Brendan D Manning"
+  ],
+  "time": "September 2009"
+ },
+ {
+  "title": "The Mechanism of Insulin-stimulated 4E-BP Protein Binding to Mammalian Target of Rapamycin (mTOR) Complex 1 and Its Contribution to mTOR Complex 1 Signaling",
+  "authors": [
+   "Joseph Rapley",
+   "Noriko Oshiro",
+   "Sara Ortiz-Vega",
+   "Joseph Avruch"
+  ],
+  "time": "September 2011"
+ },
+ {
+  "title": "mTOR Kinase Domain Phosphorylation Promotes mTORC1 Signaling, Cell Growth, and Cell Cycle Progression",
+  "authors": [
+   "Bilgen Ekim",
+   "Brian Magnuson",
+   "Alberto Jaquez",
+   "[...]",
+   "Diane C Fingar"
+  ],
+  "time": "May 2011"
+ },
+ {
+  "title": "Mammalian Target of Rapamycin Complex I (mTORC1) Activity in Ras Homologue Enriched in Brain (Rheb)-Deficient Mouse Embryonic Fibroblasts",
+  "authors": [
+   "Marlous J Groenewoud",
+   "Susan Goorden",
+   "Jorien Kassies",
+   "[...]",
+   "Fried J T Zwartkruis"
+  ],
+  "time": "November 2013"
+ },
+ {
+  "title": "Raptor binds the SAIN (Shc and IRS-1 NPXY binding) domain of insulin receptor substrate-1 (IRS-1) and regulates thephosphorylation of IRS-1 at Ser-636/639 by mTOR",
+  "authors": [
+   "Alexandros Tzatsos"
+  ],
+  "time": "July 2009"
+ },
+ {
+  "title": "cAMP-Dependent Activation of Mammalian Target of Rapamycin (mTOR) in Thyroid Cells. Implication in Mitogenesis and Activation of CDK4",
+  "authors": [
+   "Sara Blancquaert",
+   "Lifu Wang",
+   "Sabine Paternot",
+   "[...]",
+   "Pierre Roger"
+  ],
+  "time": "July 2010"
+ },
+ {
+  "title": "Protor-1 is required for efficient mTORC2-mediated activation of SGK1 in the kidney",
+  "authors": [
+   "Laura R Pearce",
+   "Eeva M Sommer",
+   "Kei Sakamoto",
+   "[...]",
+   "Dario R Alessi"
+  ],
+  "time": "March 2011"
+ },
+ {
+  "title": "Curcumin Disrupts the Mammalian Target of Rapamycin-Raptor Complex",
+  "authors": [
+   "Christopher S Beevers",
+   "Long Chen",
+   "Lei Liu",
+   "[...]",
+   "Shile Huang"
+  ],
+  "time": "February 2009"
+ },
+ {
+  "title": "Hypoxia regulates TSC1/2-mTOR signaling and tumor suppression through REDD1-mediated 14-3-3 shuttling",
+  "authors": [
+   "Maurice Phillip DeYoung",
+   "Peter Horak",
+   "Avi Sofer",
+   "[...]",
+   "Leif W Ellisen"
+  ],
+  "time": "February 2008"
+ },
+ {
+  "title": "REDD1 enhances protein phosphatase 2A-mediated dephosphorylation of Akt to repress mTORC1 signaling",
+  "authors": [
+   "Michael D Dennis",
+   "Catherine S Coleman",
+   "Arthur Berg",
+   "[...]",
+   "Scot R Kimball"
+  ],
+  "time": "July 2014"
+ },
+ {
+  "title": "Control of TSC2-Rheb signaling axis by arginine regulates mTORC1 activity",
+  "authors": [
+   "Bernadette Carroll",
+   "Dorothea Maetzel",
+   "Oliver D K Maddocks",
+   "[...]",
+   "Viktor Korolchuk"
+  ],
+  "time": "January 2016"
+ },
+ {
+  "title": "Purine Nucleotide Availability Regulates mTORC1 Activity through the Rheb GTPase",
+  "authors": [
+   "Natasha Emmanuel",
+   "Shoba Ragunathan",
+   "Qin Shan",
+   "[...]",
+   "Keziban Unsal-Kacmaz"
+  ],
+  "time": "June 2017"
+ },
+ {
+  "title": "AMPK control of mTORC1 is p53- and TSC2-independent in pemetrexed-treated carcinoma cells",
+  "authors": [
+   "Stuti Agarwal",
+   "Catherine Macdonald Bell",
+   "Scott Rothbart",
+   "Richard G Moran"
+  ],
+  "time": "September 2015"
+ },
+ {
+  "title": "TSC2 mediates hyperosmotic stress-induced inactivation of mTORC1",
+  "authors": [
+   "Monika Plescher",
+   "Aurelio A Teleman",
+   "Constantinos Demetriades"
+  ],
+  "time": "September 2015"
+ },
+ {
+  "title": "Requirement for lysosomal localization of mTOR for its activation differs between leucine and other amino acids",
+  "authors": [
+   "Julien Averous",
+   "Sarah Langlais",
+   "Valérie Carraro",
+   "[...]",
+   "Pierre Fafournoux"
+  ],
+  "time": "May 2014"
+ },
+ {
+  "title": "SAR1B senses leucine levels to regulate mTORC1 signalling",
+  "authors": [
+   "Jie Chen",
+   "Yuhui Ou",
+   "Rong Luo",
+   "[...]",
+   "Ying Liu"
+  ],
+  "time": "August 2021"
+ },
+ {
+  "title": "Differential regulation of ERK1/2 and mTORC1 through T1R1/T1R3 in MIN6 cells",
+  "authors": [
+   "Eric M Wauson",
+   "Marcy L Guerra",
+   "Julia Dyachok",
+   "[...]",
+   "Melanie Cobb"
+  ],
+  "time": "July 2015"
+ },
+ {
+  "title": "Amino Acids Stimulate TORC1 through Lst4-Lst7, a GTPase-Activating Protein Complex for the Rag Family GTPase Gtr2",
+  "authors": [
+   "Marie-Pierre Gulli",
+   "Alessandro Sardu",
+   "Nicolas Panchaud",
+   "[...]",
+   "Claudio De Virgilio"
+  ],
+  "time": "September 2015"
+ },
+ {
+  "title": "Leucine Signals to mTORC1 via Its Metabolite Acetyl-Coenzyme A",
+  "authors": [
+   "Sung Min Son",
+   "So Jung Park",
+   "Huikyong Lee",
+   "[...]",
+   "David C Rubinsztein"
+  ],
+  "time": "September 2018"
+ },
+ {
+  "title": "Amino acid sensing by mTORC1, a new pathway involved in metabolism and cancer",
+  "authors": [
+   "Sophie Giorgetti-Peraldi",
+   "Pascal Peraldi",
+   "Karine Dumas",
+   "[...]",
+   "Jean-François Tanti"
+  ],
+  "time": "December 2016"
+ },
+ {
+  "title": "RagC phosphorylation autoregulates mTOR complex 1",
+  "authors": [
+   "Guang Yang",
+   "Sean J Humphrey",
+   "Danielle S Murashige",
+   "[...]",
+   "David E James"
+  ],
+  "time": "December 2018"
+ },
+ {
+  "title": "The Ion Transporter NKCC1 Links Cell Volume to Cell Mass Regulation by Suppressing mTORC1",
+  "authors": [
+   "Wael Demian",
+   "Avinash Persaud",
+   "Chong Jiang",
+   "[...]",
+   "Daniela Rotin"
+  ],
+  "time": "May 2019"
+ },
+ {
+  "title": "Amino Acids Regulate mTORC1 by an Obligate Two-step Mechanism",
+  "authors": [
+   "Julia Dyachok",
+   "Svetlana Earnest",
+   "Erica N Iturraran",
+   "[...]",
+   "Elliott Ross"
+  ],
+  "time": "September 2016"
+ },
+ {
+  "title": "mTORC1 Activation Requires DRAM-1 by Facilitating Lysosomal Amino Acid Efflux",
+  "authors": [
+   "Florian Beaumatin",
+   "Jim O’Prey",
+   "Valentin J. A. Barthet",
+   "[...]",
+   "Kevin M. Ryan"
+  ],
+  "time": "September 2019"
+ },
+ {
+  "title": "Leucine induced dephosphorylation of Sestrin2 promotes mTORC1 activation",
+  "authors": [
+   "Scot R Kimball",
+   "Bradley S Gordon",
+   "Jenna E. Moyer",
+   "[...]",
+   "Leonard S. Jefferson"
+  ],
+  "time": "March 2016"
+ },
+ {
+  "title": "Src regulates amino acid-mediated mTORC1 activation by disrupting GATOR1-Rag GTPase interaction",
+  "authors": [
+   "Rituraj Pal",
+   "Michela Palmieri",
+   "Arindam Chaudhury",
+   "[...]",
+   "Marco Sardiello"
+  ],
+  "time": "October 2018"
+ },
+ {
+  "title": "Amino acid-dependent NPRL2 interaction with Raptor determines mTOR Complex 1 activation",
+  "authors": [
+   "Sang Su Kwak",
+   "Kyung Hwa Kang",
+   "Seyun Kim",
+   "[...]",
+   "Cheol O. Joe"
+  ],
+  "time": "November 2015"
+ },
+ {
+  "title": "A positive feedback loop between Akt and mTORC2 via SIN1 phosphorylation",
+  "authors": [
+   "Guang Yang",
+   "Danielle S Murashige",
+   "Sean J Humphrey",
+   "David E James"
+  ],
+  "time": "July 2015"
+ },
+ {
+  "title": "PI3K/Akt-sensitive MEK-independent compensatory circuit of ERK activation in ER-positive PI3K-mutant T47D breast cancer cells",
+  "authors": [
+   "Edita Aksamitiene",
+   "Boris N Kholodenko",
+   "Walter Kolch",
+   "[...]",
+   "Anatoly Kiyatkin"
+  ],
+  "time": "September 2010"
+ },
+ {
+  "title": "Cross-talk between mitogenic Ras/MAPK and survival PI3K/Akt pathways: A fine balance",
+  "authors": [
+   "Edita Aksamitiene",
+   "Anatoly Kiyatkin",
+   "Boris N Kholodenko"
+  ],
+  "time": "February 2012"
+ },
+ {
+  "title": "Multistrip Western blotting to increase quantitative data output",
+  "authors": [
+   "Edita Aksamitiene",
+   "Jan B Hoek",
+   "Boris N Kholodenko",
+   "Anatoly Kiyatkin"
+  ],
+  "time": "September 2007"
+ },
+ {
+  "title": "Signal Strength Dictates Phosphoinositide 3-Kinase Contribution to Ras/Extracellular Signal-Regulated Kinase 1 and 2 Activation via Differential Gab1/Shp2 Recruitment: Consequences for Resistance to Epidermal Growth Factor Receptor Inhibition",
+  "authors": [
+   "Carla Sampaio",
+   "Marie Dance",
+   "Alexandra Montagner",
+   "[...]",
+   "Patrick Raynal"
+  ],
+  "time": "February 2008"
+ },
+ {
+  "title": "Systems-level interactions between insulin-EGF networks amplify mitogenic signaling",
+  "authors": [
+   "Nikolay Borisov",
+   "Edita Aksamitiene",
+   "Anatoly Kiyatkin",
+   "[...]",
+   "Boris N Kholodenko"
+  ],
+  "time": "February 2009"
+ },
+ {
+  "title": "Chakrabarty A, Rexer BN, Wang SE, Cook RS, Engelman JA, Arteaga CL.. H1047R phosphatidylinositol 3-kinase mutant enhances HER2-mediated transformation by heregulin production and activation of HER3. Oncogene 29: 5193-5203",
+  "authors": [
+   "Anindita Chakrabarty",
+   "Brent N. Rexer",
+   "Emily Wang",
+   "[...]",
+   "C L Arteaga"
+  ],
+  "time": "September 2010"
+ },
+ {
+  "title": "Feedback upregulation of HER3 (ErbB3) expression and activity attenuates antitumor effect of PI3K inhibitors",
+  "authors": [
+   "Anindita Chakrabarty",
+   "Violeta Sánchez",
+   "María G Kuba",
+   "[...]",
+   "Carlos L Arteaga"
+  ],
+  "time": "February 2011"
+ },
+ {
+  "title": "Expression of PIK3CA mutant E545K in the mammary gland induces heterogeneous tumors but is less potent than mutant H1047R",
+  "authors": [
+   "Dominique Stephan Meyer",
+   "Shany Koren",
+   "Cedric Leroy",
+   "[...]",
+   "Mohamed Bentires-alj"
+  ],
+  "time": "September 2013"
+ },
+ {
+  "title": "Conditional Loss of ErbB3 Delays Mammary Gland Hyperplasia Induced by Mutant PIK3CA without Affecting Mammary Tumor Latency, Gene Expression, or Signaling",
+  "authors": [
+   "Christian D Young",
+   "Adam Pfefferle",
+   "Philip Owens",
+   "[...]",
+   "Carlos L Arteaga"
+  ],
+  "time": "April 2013"
+ },
+ {
+  "title": "GOLPH3 modulates mTOR signaling and rapamycin sensitivity in cancer",
+  "authors": [
+   "Kenneth L. Scott",
+   "Omar Kabbarah",
+   "Mei-Chih Liang",
+   "[...]",
+   "Lynda Chin"
+  ],
+  "time": "June 2009"
+ },
+ {
+  "title": "EGFR signals to mTOR through PKC and independently of Akt in glioma",
+  "authors": [
+   "Qi-Wen Fan",
+   "Christine Cheng",
+   "Zachary A Knight",
+   "[...]",
+   "William A Weiss"
+  ],
+  "time": "February 2009"
+ },
+ {
+  "title": "Targeting the mTOR pathway using novel ATP‑competitive inhibitors, Torin1, Torin2 and XL388, in the treatment of glioblastoma",
+  "authors": [
+   "Anubhav G Amin",
+   "Seung Eong",
+   "John L Gillick",
+   "[...]",
+   "Meena Jhanwar-Uniyal"
+  ],
+  "time": "September 2021"
+ },
+ {
+  "title": "Receptor tyrosine kinases and cancer: oncogenic mechanisms and therapeutic approaches",
+  "authors": [
+   "Punit Saraon",
+   "Shivanthy Pathmanathan",
+   "Jamie Snider",
+   "[...]",
+   "Igor Stagljar"
+  ],
+  "time": "June 2021"
+ },
+ {
+  "title": "Targeted polypharmacology: Discovery of dual inhibitors of tyrosine and phosphoinositide kinases",
+  "authors": [
+   "Beth Apsel",
+   "Jimmy Blair",
+   "Beatriz González",
+   "[...]",
+   "Zachary A Knight"
+  ],
+  "time": "October 2008"
+ },
+ {
+  "title": "Metformin Inhibits Hepatic mTORC1 Signaling via Dose-Dependent Mechanisms Involving AMPK and the TSC Complex",
+  "authors": [
+   "Jessica J. Howell",
+   "Kristina Hellberg",
+   "Marc Turner",
+   "[...]",
+   "Brendan D. Manning"
+  ],
+  "time": "January 2017"
+ },
+ {
+  "title": "The Lysosomal v-ATPase-Ragulator Complex Is a Common Activator for AMPK and mTORC1, Acting as a Switch between Catabolism and Anabolism",
+  "authors": [
+   "Chen-Song Zhang",
+   "Bin Jiang",
+   "Mengqi Li",
+   "[...]",
+   "Sheng-Cai Lin"
+  ],
+  "time": "July 2014"
+ },
+ {
+  "title": "The mTORC1 Signaling Network Senses Changes in Cellular Purine Nucleotide Levels",
+  "authors": [
+   "Gerta Hoxhaj",
+   "James Hughes Hallett",
+   "Rebecca C. Timson",
+   "[...]",
+   "Brendan D. Manning"
+  ],
+  "time": "October 2017"
+ },
+ {
+  "title": "Hepatic mTORC1 signaling activates ATF4 as part of its metabolic response to feeding and insulin",
+  "authors": [
+   "Vanessa Byles",
+   "Yann Cormerais",
+   "Krystle Kalafut",
+   "[...]",
+   "Brendan D. Manning"
+  ],
+  "time": "July 2021"
+ },
+ {
+  "title": "Ursolic Acid Inhibits Leucine-Stimulated mTORC1 Signaling by Suppressing mTOR Localization to Lysosome",
+  "authors": [
+   "Xiang Ou",
+   "Meilian Liu",
+   "Hairong Luo",
+   "[...]",
+   "Feng Liu"
+  ],
+  "time": "April 2014"
+ },
+ {
+  "title": "SLC38A9 is a component of the lysosomal amino acid sensing machinery that controls MTORC1",
+  "authors": [
+   "Manuele Rebsamen",
+   "Lorena Pochini",
+   "Taras Stasyk",
+   "[...]",
+   "Giulio Superti-Furga"
+  ],
+  "time": "January 2015"
+ },
+ {
+  "title": "Lysosomal cholesterol activates mTORC1 via an SLC38A9–Niemann-Pick C1 signaling complex",
+  "authors": [
+   "Brian M. Castellano",
+   "Ashley M. Thelen",
+   "Ofer Moldavski",
+   "[...]",
+   "Roberto Zoncu"
+  ],
+  "time": "March 2017"
+ },
+ {
+  "title": "The E3 ubiquitin ligase ZNRF2 is a substrate of mTORC1 and regulates its activation by amino acids",
+  "authors": [
+   "Gerta Hoxhaj",
+   "Edward Caddye",
+   "Ayaz Najafov",
+   "[...]",
+   "Carol Mackintosh"
+  ],
+  "time": "April 2016"
+ },
+ {
+  "title": "Sestrins inhibit mTORC1 kinase activation through the GATOR complex",
+  "authors": [
+   "Anita Parmigiani",
+   "Aida Nourbakhsh",
+   "Boxiao Ding",
+   "[...]",
+   "Andrei Budanov"
+  ],
+  "time": "November 2014"
+ },
+ {
+  "title": "ER–lysosome contacts enable cholesterol sensing by mTORC1 and drive aberrant growth signalling in Niemann–Pick type C",
+  "authors": [
+   "Chun-Yan Lim",
+   "Oliver B. Davis",
+   "Hijai R. Shin",
+   "[...]",
+   "Roberto Zoncu"
+  ],
+  "time": "October 2019"
+ },
+ {
+  "title": "Lysosomal amino acid transporter SLC38A9 signals arginine sufficiency to mTORC1",
+  "authors": [
+   "Shuyu Wang",
+   "Zhi-Yang Tsun",
+   "Rachel Laura Wolfson",
+   "[...]",
+   "David M Sabatini"
+  ],
+  "time": "January 2015"
+ },
+ {
+  "title": "Dynamics of mTORC1 activation in response to amino acids",
+  "authors": [
+   "Maria Manifava",
+   "Matthew Smith",
+   "Sergio Rotondo",
+   "[...]",
+   "Nicholas T Ktistakis"
+  ],
+  "time": "October 2016"
+ },
+ {
+  "title": "Prognostic Impact of PCK1 Protein Kinase Activity-Dependent Nuclear SREBP1 Activation in Non-Small-Cell Lung Carcinoma",
+  "authors": [
+   "Fei Shao",
+   "Xueli Bian",
+   "Juhong Wang",
+   "[...]",
+   "Zhimin Lu"
+  ],
+  "time": "March 2021"
+ },
+ {
+  "title": "METTL3 promotes tumour development by decreasing APC expression mediated by APC mRNA N6-methyladenosine-dependent YTHDF binding",
+  "authors": [
+   "Wei Wang",
+   "Fei Shao",
+   "Xueying Yang",
+   "[...]",
+   "Zhimin Lu"
+  ],
+  "time": "June 2021"
+ }
+]

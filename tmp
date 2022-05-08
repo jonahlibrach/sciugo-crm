@@ -1,0 +1,4 @@
+ 
+    LC_ALL=C tr '[<>]' '\n' | LC_ALL=C grep '^a' | grep -o 'https:[^&]*' | grep -v google | grep linkedin | 
+    uniq | awk '{ print("\""$0"\"") }' | xargs | tr ' ' ',' | awk '{ echo("["$0"]") }'
+

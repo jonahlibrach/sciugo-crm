@@ -1,0 +1,21 @@
+!! From linkedin (companies)
+
+( ) connection to ws/server (we want to know as soon as connection fails)
+( ) ws is (or is not) connected to database (we want to know as soon as connection fails)
+( ) new people from LinkedIn company --> should send message back to the client about the operation
+( ) when some people are new and some are old, we should show that N are new (show which ones) and M are old
+
+!! To say there's no money in academia is outrageous. The schools have so much cashish.
+
+I imagine the pipeline for adding a PI will be like this:
+
+PIs will usually be discovered through papers.
+After we discover a PI, we find out their email, etc, the co-authors in their institution
+
+! PI Pipeline !
+
+PI Name (along with other info if possible) -> PI Lab -> PI Lab People (with contact info where possible) -> [ LinkedIn profile link, email address ]
+( ) create a new lab
+( ) 
+
+

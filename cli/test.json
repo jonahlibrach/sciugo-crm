@@ -1,0 +1,73 @@
+[
+  {
+    "DOI": "10.3390/cancers12030654", 
+    "_id": "6166ee341210308f93e1678c", 
+    "articleUrl": "http://dx.doi.org/10.3390/cancers12030654", 
+    "authors": [
+      "6166ee341210308f93e1678a", 
+      "6166ee341210308f93e1678b", 
+      "6166ee201210308f93e16785", 
+      "6166ee201210308f93e16788"
+    ], 
+    "correspondingAuthors": [
+      "6166ee201210308f93e16788"
+    ], 
+    "groupType": "paper", 
+    "images": [
+      "https://www.researchgate.net/publication/339880630/figure/fig1/AS:868246966255617@1584017616698/MK2-inhibition-attenuates-proliferation-of-p53-wt-glioblastoma-cells-A-Cells-were_Q320.jpg", 
+      "https://www.researchgate.net/publication/339880630/figure/fig2/AS:868246966263819@1584017616767/FMK2-inhibition-increases-p53-expression-A-B-Parental-Par-cells-and-MK2-null-clones_Q320.jpg", 
+      "https://www.researchgate.net/publication/339880630/figure/fig3/AS:868246966267906@1584017616911/p53-wt-silencing-rescues-the-anti-proliferative-efficacy-of-MK2-inhibition-A-D_Q320.jpg"
+    ], 
+    "journal": "Cancers 12(3):654", 
+    "publicationDate": "March 2020", 
+    "title": "MK2 Inhibition Induces p53-Dependent Senescence in Glioblastoma Cells"
+  }, 
+  {
+    "DOI": "10.1021/acsptsci.9b00045", 
+    "_id": "6166ee501210308f93e1678f", 
+    "articleUrl": "http://dx.doi.org/10.1021/acsptsci.9b00045", 
+    "authors": [
+      "6166ee501210308f93e1678d", 
+      "6166ee341210308f93e1678b", 
+      "6166ee501210308f93e1678e", 
+      "6166ee201210308f93e16788"
+    ], 
+    "correspondingAuthors": [
+      "6166ee201210308f93e16788"
+    ], 
+    "groupType": "paper", 
+    "images": [
+      "https://www.researchgate.net/profile/Ramzi-Abbassi/publication/334782540/figure/fig1/AS:894127856173058@1590188101550/Tubulin-isotypes-and-post-translational-modifications-in-glioblastoma-cells-Western-blot_Q320.jpg", 
+      "https://www.researchgate.net/profile/Ramzi-Abbassi/publication/334782540/figure/fig2/AS:894127856164867@1590188101611/MTA-sensitivity-in-glioblastoma-cells-a-Schematic-of-relative-drug-sensitivity-metrics_Q320.jpg", 
+      "https://www.researchgate.net/profile/Ramzi-Abbassi/publication/334782540/figure/fig3/AS:894127860371456@1590188102284/Spearmans-correlations-between-tubulin-expression-and-MTA-efficacy-a-b-Pairwise_Q320.jpg", 
+      "https://www.researchgate.net/profile/Ramzi-Abbassi/publication/334782540/figure/fig4/AS:894127860355074@1590188102830/Cells-with-lower-levels-of-a-b-tubulin-generate-more-drug-tolerant-cells-a_Q320.jpg"
+    ], 
+    "journal": "ACS Pharmacology & Translational Science 2019(, XXXX)", 
+    "publicationDate": "July 2019", 
+    "title": "Lower Tubulin Expression in Glioblastoma Stem Cells Attenuates Efficacy of Microtubule-Targeting Agents"
+  }, 
+  {
+    "DOI": "10.1038/s41420-021-00456-6", 
+    "_id": "6166ee591210308f93e16791", 
+    "articleUrl": "http://dx.doi.org/10.1038/s41420-021-00456-6", 
+    "authors": [
+      "6166ee341210308f93e1678b", 
+      "61450a13ba0ffda59e49bb9b", 
+      "6166ee591210308f93e16790", 
+      "6166ee201210308f93e16788"
+    ], 
+    "correspondingAuthors": [
+      "6166ee201210308f93e16788"
+    ], 
+    "groupType": "paper", 
+    "images": [
+      "https://www.researchgate.net/publication/350939031/figure/fig1/AS:1021236092104704@1620493066074/Proteomic-characterization-of-DYRK1A-inhibition-in-U251-glioblastoma-cells-A-DYRK1A_Q320.jpg", 
+      "https://www.researchgate.net/publication/350939031/figure/fig2/AS:1021236092104705@1620493066145/DYRK1A-inhibition-prevents-cyclin-B-degradation-Immunoblot-analysis-and-densitometric_Q320.jpg", 
+      "https://www.researchgate.net/publication/350939031/figure/fig3/AS:1021236092104706@1620493066229/DYRK1A-inhibition-regulates-proliferation-in-a-cell-dependent-manner-A-Genomic-profiles_Q320.jpg", 
+      "https://www.researchgate.net/publication/350939031/figure/fig4/AS:1021236092104707@1620493066310/Retinoblastoma-expression-determines-the-proliferative-response-to-DYRK1A-inhibition-A_Q320.jpg"
+    ], 
+    "journal": "Cell Death Discovery 7(1)", 
+    "publicationDate": "June 2021", 
+    "title": "Global phosphoproteomics reveals DYRK1A regulates CDK1 activity in glioblastoma cells"
+  }
+]

@@ -1,0 +1,51 @@
+<html>
+  <script>
+
+    function E(type,children){
+      let el = document.createElement(type)
+      if( typeof(children) === 'string' ){
+        el.innerText = children;
+      }else{
+        (children||[]).forEach(child => el.appendChild(child));
+      }
+      return el;
+    }
+    function incrementCount(){
+      let countEle = document.getElementById('count')
+      countEle.innerText = Number(countEle.innerText) + 1;
+    }
+
+    function search(){
+      let query = document.getElementById('query').value;
+
+      console.log("Query is: " + query);
+
+      fetch('http://localhost:4444/get/people').then(res => res.json()).then(records => {
+        //console.log(records);
+
+        let searchResults = document.getElementById("searchResults");
+        records.filter(rec => [rec.firstName,rec.lastName].some(name => name.toLowerCase().includes(query.toLowerCase()))).forEach(rec => {
+          let fullName = rec.firstName + " " + rec.lastName;
+          console.log(rec.searchData)
+          console.log(fullName);
+          /*let div = E("DIV",[
+            E("DIV",[E("B",fullName)])
+            E("DIV",[E("PRE",JSON.stringify(rec.searchData))])
+          ])
+          searchResults.appendChild(div);*/
+        })
+      });
+
+
+      
+      //document.body.removeChild
+    }
+
+  </script>
+  <body>
+    <div>Search: <input id="query"/> <button onclick="search()">Search</button></div>
+    <button onclick="incrementCount()">Increment</button>
+    <div id="count">0</div>
+    <div id="searchResults"></div>
+  </body>
+</html>
